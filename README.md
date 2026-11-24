@@ -1,4 +1,4 @@
-# RoomSense — Streamlit GUI v2
+# RoomSense
 
 ## Struktur folder
 

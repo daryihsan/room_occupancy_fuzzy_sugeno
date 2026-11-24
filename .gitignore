@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit project generated files
+outputs/
+__results___files/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and secrets
+.env
+*.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/

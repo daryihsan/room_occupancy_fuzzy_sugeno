@@ -3,8 +3,10 @@
 venv/
 
 # Streamlit project generated files
-outputs/
 __results___files/
+outputs/*
+!outputs/
+!outputs/room_occupancy_fuzzy_sugeno_bundle.joblib
 
 # Python cache
 __pycache__/

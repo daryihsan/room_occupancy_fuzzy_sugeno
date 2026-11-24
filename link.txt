@@ -1,0 +1,5 @@
+GitHub:
+https://github.com/daryihsan/room_occupancy_fuzzy_sugeno
+
+Deploy Streamlit:
+https://room-sense.streamlit.app/

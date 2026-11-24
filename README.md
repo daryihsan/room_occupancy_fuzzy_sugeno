@@ -26,6 +26,6 @@ Karena temperatur, suara, dan CO2 slope tidak termasuk fitur terpilih, perubahan
 
 ## Input banyak observasi
 - Gunakan halaman **Prediksi banyak data**.
-- Unduh template CSV, isi satu observasi per baris, lalu upload. (Data penelitian juga tersedia di `Occupancy_Estimation.csv`)
+- Unduh template CSV, isi satu observasi per baris, lalu upload. (Data penelitian juga tersedia di `Occupancy_Estimation.csv` dengan https://doi.org/10.24432/C5P605)
 - Atau masukkan banyak baris melalui tabel input.
 - Untuk model compact, kolom sensor wajib adalah S1–S4 Light, S5_CO2, S6_PIR, dan S7_PIR. Kolom sensor lain boleh ikut disertakan sebagai informasi tambahan.
